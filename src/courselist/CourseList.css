@@ -1,0 +1,116 @@
+.list-body
+{
+    margin-top: 60px;
+    margin-left: 170px;
+}
+.list-title
+{
+    display: flex;
+}
+.list-image1
+{
+    width: 50px;
+    height: 50px;
+   
+}
+.list-sub
+{
+    font-size: 1.333rem;
+    font-weight: 700;
+    line-height: 1.667rem;
+
+}
+.list-subtitle
+{
+    color: #808080;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+.list-cardlist
+{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.card
+{
+    width: 250px;
+    height: 285px;
+    box-shadow: 0 3px 5px -1px #0003,0 6px 10px #00000024,0 1px 18px #0000001f;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.list-smallbox
+{
+    width:220px;
+    height: 90px;
+    margin-left: 15px;
+    background-color: #f6f6f6;
+    margin-top: 10px;
+}
+.list-cardsub
+{
+    padding-top: 15px;
+    font-size: 1.167rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    font-weight: 600;
+    width: 200px;
+    margin-left: 15px;
+
+    
+}
+.list-status
+{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.333rem;
+    color: #808080;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.list-q1{
+    margin-top: 10px;
+    color: #808080;
+    margin-left: 5px;
+    font-size: 13px;
+    font-weight: 400;
+    
+
+}
+.list-flex
+{
+    display: flex;
+    margin-left: 10px;
+}
+.list-value
+{ margin-top: 7px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-left: auto;
+    margin-right: 40px;
+}
+.list-unlockbtn
+{
+    display: flex;
+     color: #0f5298;
+     width: 230px;
+     padding-top: 0px;
+    cursor: pointer;
+}
+.list-lockname
+{
+    margin-left: 80px;
+    font-size: 1.167rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    margin-right: 5px;
+}
+.list-hr
+{
+    width: 220px;
+    margin-top: 20px;
+    
+}

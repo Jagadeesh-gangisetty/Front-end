@@ -1,0 +1,80 @@
+.cardflex
+{
+    
+    width: 500px;
+    height: 280px;
+    display: flex;
+    margin-left: 570px;
+    margin-top: 50px;
+    border: 0.5px groove rgb(149, 146, 146);
+}
+.exam{
+    margin-left: 680px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.section1
+{
+    width:250px;
+    background-color: aliceblue;
+}
+.subjectname{
+    width: 200px;
+    height: 40px;
+    background-color: aliceblue;
+    font-weight: 700;
+   
+    padding-top: 20px;
+}
+.flex4{
+    display: flex;
+}
+.section3{
+    height: 50px;
+    font-weight: 700;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.text1{
+    margin: 10px;
+    font-weight: 750;
+    color: rgb(104, 104, 247);
+}
+.count{
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-weight: 750;
+}
+.num{
+margin-left: 90px;
+margin-top: 20px;
+}
+.sen1{
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+}
+.sen2
+{
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+.flex6{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 40px;
+    gap: 20px;
+}
+.cancelbtn{
+    height: 40px;
+    width: 250px;
+    margin-right: 20px;
+}
+.submitbtn{
+    width: 250px;
+    height: 40px;
+   
+}

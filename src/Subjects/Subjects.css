@@ -1,0 +1,35 @@
+.subflex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin-left: 140px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.sub-name
+{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 600;
+    color: #4255A4;
+    margin-top: 50px;
+
+}
+.sub-course-name{
+    color: #4255A4;
+    cursor: pointer;
+}
+.hovered-content
+{
+    color: #4255A4;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    z-index: 1;
+  }

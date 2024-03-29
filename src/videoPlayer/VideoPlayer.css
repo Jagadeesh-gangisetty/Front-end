@@ -1,0 +1,18 @@
+.App
+{
+    display: flex;
+    height: 100vh;
+}
+.flexone
+{
+    flex: 0 0 75%; /* Take up 80% of the available space */
+   
+}
+.flextwo
+{
+   
+    flex: 0 0 25%; /* Take up 80% of the available space */
+    height: 100%;
+    overflow-y:auto;
+    background-color: aliceblue;
+}
